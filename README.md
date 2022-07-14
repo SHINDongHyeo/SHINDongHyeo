@@ -33,8 +33,7 @@ Tools
 
 
 ## 🏆 백준온라인저지
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=sd1010)](https://solved.ac/sd1010)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sd1010)](https://solved.ac/sd1010)
 
 
 <br><br><br>
