@@ -20,6 +20,11 @@ WEB
 Tools
 
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  
+  
+AI
+
+<img src="https://img.shields.io/badge/scikit-learn-#F7931E?style=flat-square&logo=scikitlearn&logoColor=orange">
 
 
     
