@@ -24,7 +24,7 @@ Tools
   
 AI
 
-<img src="https://img.shields.io/badge/scikit-learn-#F7931E?style=flat-square&logo=scikitlearn&logoColor=orange">
+<img src="https://img.shields.io/badge/scikit learn-#F7931E?style=flat-square&logo=scikitlearn&logoColor=orange">
 
 
     
