@@ -15,7 +15,7 @@ DB
 
 Framework
 
-<img src="https://img.shields.io/badge/react-000000?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
+<img src="https://img.shields.io/badge/react-000000?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/react-000000?style=flat-square&logo=react native&logoColor=61DAFB"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
 
 
 Tools
