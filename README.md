@@ -15,7 +15,7 @@ DB
 
 Framework
 
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/ReactNative-000000?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot3&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=black"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/ReactNative-000000?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
 
 
 Tools
