@@ -20,7 +20,7 @@ Framework
 
 Tools
 
-<img src="https://img.shields.io/badge/visual studio code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/STS-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/STS-6DB33F?style=flat&logo=Spring&logoColor=white">
   
   
 AI
