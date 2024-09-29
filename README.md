@@ -30,7 +30,10 @@ AI
 Server
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon web services&logoColor=white">
-    
+
+DevOps
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
     
 <br><br><br>
 
