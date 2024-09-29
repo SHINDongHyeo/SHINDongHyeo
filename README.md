@@ -27,7 +27,9 @@ AI
 
 <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
 
+SERVER
 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon web services&logoColor=white">
     
     
 <br><br><br>
