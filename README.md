@@ -25,5 +25,5 @@
 
 ## 블로그
 <div>
-    https://sparkit.tistory.com
+    <a href="https://sparkit.tistory.com" target="_blank">티스토리 블로그 바로가기</a>
 </div>
