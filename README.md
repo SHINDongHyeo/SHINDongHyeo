@@ -37,31 +37,6 @@ DevOps
     
 <br><br><br>
 
-## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHINDongHyeo&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><br><br>
-
-
-## 🏆 백준온라인저지
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sd1010)](https://solved.ac/sd1010)
-
-
-<br><br><br>
-
-
-<!-- ## 📞 Contact
-Git : <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> -->
-
-
-
-
-<br><br><br>
-
-
-<center><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSHINDongHyeo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false"/></a></center>
-
-  
-  </div>
 
 
