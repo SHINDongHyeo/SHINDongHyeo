@@ -1,7 +1,4 @@
 <div align=center>
-  
-# 신동혁
-
 
     
 Programming Language
