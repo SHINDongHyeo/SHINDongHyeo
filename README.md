@@ -1,6 +1,6 @@
 <div align=center>
   
-## 📝 I'm Studying
+# 신동혁
 
 
     
